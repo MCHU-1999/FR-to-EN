@@ -1,0 +1,9 @@
+.DS_Store
+.venv/
+.vscode/
+
+Bâtiment-BDUni/
+sources/*/
+build/
+__pycache__/
+.env
