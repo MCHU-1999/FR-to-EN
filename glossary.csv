@@ -1,0 +1,51 @@
+fr,en
+# BDUni / BD TOPO terminology. Prefer multi-word, specific terms: DeepL applies entries everywhere.
+# Editing this file creates a new DeepL glossary and invalidates the translation cache.
+Présentation,Overview
+Attributs,Attributes
+Tableau détaillé des attributs,Detailed attribute table
+Valeurs possibles,Possible values
+Obligatoire sur le serveur,Mandatory on the server
+Type de géométrie,Geometry type
+MultiPolygone 3D,3D MultiPolygon
+Nom PostgreSQL,PostgreSQL name
+Format PostgreSQL,PostgreSQL format
+Format Shapefile,Shapefile format
+Nom SQL,SQL name
+Nom SHP,SHP name
+Nul autorisé,Nullable
+Long max,Max length
+Longueur maximale,Maximum length
+Horodatage,Timestamp
+Booléen,Boolean
+Regroupement,Grouping
+Regroupement hors spécifications,Out-of-specification grouping
+Contrainte sur l'attribut,Attribute constraint
+Contrainte de modélisation,Modelling constraint
+Spécifications de saisie,Capture specifications
+Source de la donnée,Data source
+Source de la mise à jour,Update source
+Compatibilité entre attributs,Attribute compatibility
+Bâtiment,Building
+bâti,buildings
+emprise,footprint
+Construction légère,Lightweight structure
+Etat de l'objet,Object status
+Altitude minimale sol,Minimum ground altitude
+Altitude minimale toit,Minimum roof altitude
+Altitude maximale sol,Maximum ground altitude
+Altitude maximale toit,Maximum roof altitude
+Altitude maximale construction,Maximum structure altitude
+Précision planimétrique,Planimetric accuracy
+Précision altimétrique,Altimetric accuracy
+Méthode d'acquisition planimétrique,Planimetric acquisition method
+Méthode d'acquisition altimétrique,Altimetric acquisition method
+Nombre de logements,Number of dwellings
+Nombre d'étages,Number of storeys
+Matériaux des murs,Wall materials
+Matériaux de la toiture,Roof materials
+fichiers fonciers,land files
+MNS,DSM
+MNT,DTM
+photogrammétrie,photogrammetry
+orthophotographie,orthophotograph
